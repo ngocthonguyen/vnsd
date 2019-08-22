@@ -1,0 +1,67 @@
+{
+  "vnsdApp": {
+    "organization": {
+      "home": {
+        "title": "Organizations",
+        "createLabel": "Créer un nouveau Organization",
+        "createOrEditLabel": "Créer ou éditer un Organization",
+        "search": "Recherche pour Organization",
+        "notFound": "Aucun Organization trouvé"
+      },
+      "created": "Un nouveau Organization a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Organization avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Organization avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Organization {{ id }} ?"
+      },
+      "detail": {
+        "title": "Organization"
+      },
+      "uuid": "Uuid",
+      "permalink": "Permalink",
+      "name": "Name",
+      "alsoknownas": "Alsoknownas",
+      "shortdescription": "Shortdescription",
+      "description": "Description",
+      "profileimageid": "Profileimageid",
+      "primaryrole": "Primaryrole",
+      "rolecompany": "Rolecompany",
+      "roleinvestor": "Roleinvestor",
+      "rolegroup": "Rolegroup",
+      "roleschool": "Roleschool",
+      "foundedon": "Foundedon",
+      "foundedontrustcode": "Foundedontrustcode",
+      "closedon": "Closedon",
+      "closedontrustcode": "Closedontrustcode",
+      "numemployeesmin": "Numemployeesmin",
+      "numemployeesmax": "Numemployeesmax",
+      "totalfundingusd": "Totalfundingusd",
+      "totalfundingvnd": "Totalfundingvnd",
+      "stockexchange": "Stockexchange",
+      "stocksymbol": "Stocksymbol",
+      "numberofinvestments": "Numberofinvestments",
+      "createdat": "Createdat",
+      "updatedat": "Updatedat",
+      "permalinkaliases": "Permalinkaliases",
+      "investortype": "Investortype",
+      "contactemail": "Contactemail",
+      "phonenumber": "Phonenumber",
+      "rank": "Rank",
+      "primaryimageid": "Primaryimageid",
+      "ownedbyid": "Ownedbyid",
+      "headquartersid": "Headquartersid",
+      "acquiredbyid": "Acquiredbyid",
+      "ipoid": "Ipoid",
+      "domain": "Domain",
+      "homepageurl": "Homepageurl",
+      "facebookurl": "Facebookurl",
+      "twitterurl": "Twitterurl",
+      "linkedinurl": "Linkedinurl",
+      "cityname": "Cityname",
+      "regionname": "Regionname",
+      "countrycode": "Countrycode",
+      "owner": "Owner",
+      "organizationEmployee": "Organization Employee"
+    }
+  }
+}

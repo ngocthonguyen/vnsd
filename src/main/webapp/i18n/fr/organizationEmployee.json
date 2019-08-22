@@ -1,0 +1,25 @@
+{
+  "vnsdApp": {
+    "organizationEmployee": {
+      "home": {
+        "title": "OrganizationEmployees",
+        "createLabel": "Créer un nouveau Organization Employee",
+        "createOrEditLabel": "Créer ou éditer un Organization Employee",
+        "search": "Recherche pour Organization Employee",
+        "notFound": "Aucun Organization Employee trouvé"
+      },
+      "created": "Un nouveau Organization Employee a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Organization Employee avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Organization Employee avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Organization Employee {{ id }} ?"
+      },
+      "detail": {
+        "title": "Organization Employee"
+      },
+      "role": "Role",
+      "organization": "Organization",
+      "person": "Person"
+    }
+  }
+}
