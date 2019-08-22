@@ -1,0 +1,52 @@
+{
+  "vnsdApp": {
+    "person": {
+      "home": {
+        "title": "People",
+        "createLabel": "Créer un nouveau Person",
+        "createOrEditLabel": "Créer ou éditer un Person",
+        "search": "Recherche pour Person",
+        "notFound": "Aucun Person trouvé"
+      },
+      "created": "Un nouveau Person a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Person avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Person avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Person {{ id }} ?"
+      },
+      "detail": {
+        "title": "Person"
+      },
+      "uuid": "Uuid",
+      "permalink": "Permalink",
+      "firstname": "Firstname",
+      "lastname": "Lastname",
+      "alsoknownas": "Alsoknownas",
+      "bio": "Bio",
+      "profileimageid": "Profileimageid",
+      "roleinvestor": "Roleinvestor",
+      "bornon": "Bornon",
+      "bornontrustcode": "Bornontrustcode",
+      "diedon": "Diedon",
+      "diedontrustcode": "Diedontrustcode",
+      "createdat": "Createdat",
+      "updatedat": "Updatedat",
+      "permalinkaliases": "Permalinkaliases",
+      "gender": "Gender",
+      "rank": "Rank",
+      "primaryaffiliationid": "Primaryaffiliationid",
+      "primarylocationid": "Primarylocationid",
+      "primaryimageid": "Primaryimageid",
+      "title": "Title",
+      "homepageurl": "Homepageurl",
+      "facebookurl": "Facebookurl",
+      "twitterurl": "Twitterurl",
+      "linkedinurl": "Linkedinurl",
+      "cityname": "Cityname",
+      "regionname": "Regionname",
+      "countrycode": "Countrycode",
+      "organization": "Organization",
+      "organizationEmployee": "Organization Employee"
+    }
+  }
+}
