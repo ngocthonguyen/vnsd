@@ -1,0 +1,47 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "vnsd",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "fr",
+      "vi",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.2.0",
+    "jwtSecretKey": "ZTFjZDJmNTQ2ZDI0ZjY5ODNhNDYyZjkzM2RhY2E1OTA1Y2ZmZTU4ZTRlNDZkZTZhZDA2MzExNjIzZmM1MDZlMjI0YjE1ZmFmNmQ3MTgzMGMwMDMwMzUwZWExYmZiMDQ1MmI0OTEyODBmMjNhM2EzNjk0MzcwODU0NmQ2YzEyY2Q=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "ngocthonguyen",
+  "repository-name": "vnsd"
+}
